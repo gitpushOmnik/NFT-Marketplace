@@ -59,7 +59,12 @@ Users can easily connect their MetaMask wallets to the application, enabling the
 4. **Running ReactJS Frontend server**
 
     > npm run start
-   
+
+## Screenshots of the website
+
+<img src="https://github.com/gitpushOmnik/Sign-Language-Translator/blob/main/README%20Images/IMG_2673.jpg" width="275" height="600">
+
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).

@@ -62,7 +62,13 @@ Users can easily connect their MetaMask wallets to the application, enabling the
 
 ## Screenshots of the website
 
-<img src="https://github.com/gitpushOmnik/Sign-Language-Translator/blob/main/README%20Images/IMG_2673.jpg" width="275" height="600">
+<img src="https://github.com/gitpushOmnik/NFT-Marketplace/blob/main/README/contract-testing.png" width="275" height="600">  
+<img src="https://github.com/gitpushOmnik/NFT-Marketplace/blob/main/README/initial-page.png" width="275" height="600">  
+<img src="https://github.com/gitpushOmnik/NFT-Marketplace/blob/main/README/initial-page2.png" width="275" height="600">  
+<img src="https://github.com/gitpushOmnik/NFT-Marketplace/blob/main/README/nft-creation.png" width="275" height="600">  
+<img src="https://github.com/gitpushOmnik/NFT-Marketplace/blob/main/README/nft-creation2.png" width="275" height="600">  
+<img src="https://github.com/gitpushOmnik/NFT-Marketplace/blob/main/README/nft-uploaded.png" width="275" height="600">  
+<img src="https://github.com/gitpushOmnik/NFT-Marketplace/blob/main/README/nft-sold.png" width="275" height="600">  
 
 
 ## License

@@ -35,6 +35,24 @@ This is a decentralized application (DApp) built with React, which allows users 
    - Navigate to the "My Listed Items" page to view the NFTs you have listed for sale.
    - Navigate to the "My Purchases" page to view the NFTs you have purchased.
 
+## Deployment and Testing
+
+1. **Running Hardhat Tests**:
+
+   > npx hardhat test
+
+2. **Running Hardhat Node**:
+
+   > npx hardhat node
+
+3. **Deploying Contracts**
+
+    > npx hardhat run src/backend/scripts/deploy.js --network localhost
+
+4. **Running ReactJS Frontend server**
+
+    > npm run start
+   
 ## License
 
 This project is licensed under the [MIT License](LICENSE).

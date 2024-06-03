@@ -62,13 +62,13 @@ Users can easily connect their MetaMask wallets to the application, enabling the
 
 ## Screenshots of the website
 
-<img src="https://github.com/gitpushOmnik/NFT-Marketplace/blob/main/README/contract-testing.png" width="1200" height="500">  
-<img src="https://github.com/gitpushOmnik/NFT-Marketplace/blob/main/README/initial-page.png" width="1200" height="500">  
-<img src="https://github.com/gitpushOmnik/NFT-Marketplace/blob/main/README/initial-page2.png" width="1200" height="500">  
-<img src="https://github.com/gitpushOmnik/NFT-Marketplace/blob/main/README/nft-creation.png" width="1200" height="500">  
-<img src="https://github.com/gitpushOmnik/NFT-Marketplace/blob/main/README/nft-creation2.png" width="1200" height="500">  
-<img src="https://github.com/gitpushOmnik/NFT-Marketplace/blob/main/README/nft-uploaded.png" width="1200" height="500">  
-<img src="https://github.com/gitpushOmnik/NFT-Marketplace/blob/main/README/nft-sold.png" width="1200" height="500">  
+<img src="https://github.com/gitpushOmnik/NFT-Marketplace/blob/main/README/contract-testing.png" width="1250" height="500">  
+<img src="https://github.com/gitpushOmnik/NFT-Marketplace/blob/main/README/initial-page.png" width="1250" height="500">  
+<img src="https://github.com/gitpushOmnik/NFT-Marketplace/blob/main/README/initial-page2.png" width="1250" height="500">  
+<img src="https://github.com/gitpushOmnik/NFT-Marketplace/blob/main/README/nft-creation.png" width="1250" height="500">  
+<img src="https://github.com/gitpushOmnik/NFT-Marketplace/blob/main/README/nft-creation2.png" width="1250" height="500">  
+<img src="https://github.com/gitpushOmnik/NFT-Marketplace/blob/main/README/nft-uploaded.png" width="1250" height="500">  
+<img src="https://github.com/gitpushOmnik/NFT-Marketplace/blob/main/README/nft-sold.png" width="1250" height="500">  
 
 
 ## License
